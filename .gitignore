@@ -1,0 +1,13 @@
+# Ignore raw datasets
+data_raw/
+*.zip
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore outputs if they are too large
+outputs/
