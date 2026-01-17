@@ -32,7 +32,6 @@ UIDAI_Data_Analysis/
 ├── outputs/                 # Generated outputs (charts, reports, summaries)
 │
 ├── README.md                # Project documentation
-└── requirements.txt        # Python dependencies
 ```
 
 ---
@@ -152,7 +151,7 @@ To leverage UIDAI’s anonymized Aadhaar datasets and build data-driven insights
 ## 🤝 Contribution
 
 This project is maintained for **UIDAI Hackathon 2026**.
-Contributions are welcome from registered hackathon participants.
+
 
 ---
 
@@ -172,14 +171,5 @@ This project is licensed under the **MIT License**.
 
 ---
 
-### ✅ Important Instructions (Very Important)
 
-When pasting:
-
-✔ Paste directly into `README.md`
-❌ Do NOT wrap it inside ```
-❌ Do NOT paste inside a code block
-✔ Save file and refresh GitHub page
-
----
 
